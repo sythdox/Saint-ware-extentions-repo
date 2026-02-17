@@ -1,0 +1,7 @@
+{
+  "id": "reinforce",
+  "name": "Feint Reinforce",
+  "version": "1.0.0",
+  "description": "Legacy feint + reinforce helper module.",
+  "author": "sythdox"
+}
