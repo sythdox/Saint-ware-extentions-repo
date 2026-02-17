@@ -1,0 +1,8 @@
+{
+  "id": "s_remover",
+  "name": "S Remover",
+  "version": "1.0.0",
+  "description": "Disables the S key while Roblox is focused.",
+  "author": "Saint",
+  "min_saint_version": "1.0.0"
+}
