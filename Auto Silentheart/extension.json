@@ -1,0 +1,8 @@
+{
+  "id": "s_remover",
+  "name": "Silentheart keybinds",
+  "version": "1.0.0",
+  "description": "Auto does flowstate + silent heart move when keybind press (like a mantra)",
+  "author": "Saint",
+  "min_saint_version": "1.0.0"
+}
