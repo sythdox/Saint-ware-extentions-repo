@@ -1,0 +1,8 @@
+{
+  "id": "s_remover",
+  "name": "Fast M1s",
+  "version": "1.0.0",
+  "description": "Makes m1 animation faster",
+  "author": "Saint",
+  "min_saint_version": "1.0.0"
+}
