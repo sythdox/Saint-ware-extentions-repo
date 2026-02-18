@@ -1,0 +1,8 @@
+{
+  "id": "s_remover",
+  "name": "Combo Builder",
+  "version": "1.0.0",
+  "description": "Makes Modules that do combos eg. feint -> uppercut -> Mantra",
+  "author": "Saint",
+  "min_saint_version": "1.0.0"
+}
